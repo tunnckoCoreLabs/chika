@@ -8,7 +8,7 @@
 Build brilliant UI apps, fast & easy.
 </h1>
 
-> Chika is sweety little chick in the JavaScript _\_ecosphere_\_ that creates blazing fast &amp; gorgeous apps.
+> Chika is tiny sweety little chick in the JavaScript _\_ecosphere_\_ that creates blazing fast & gorgeous apps. She is kinda girlfriend of [Mich](https://github.com/tunnckoCore/mich), the Virtual Sword guy.
 
 <!--<p align="center">
   <a href="https://codeclimate.com/github/tunnckoCore/mich-to-html"><img src="https://img.shields.io/codeclimate/github/tunnckoCore/resolve-package.svg" alt="codeclimate"></a>
