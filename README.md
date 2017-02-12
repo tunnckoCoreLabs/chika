@@ -5,7 +5,7 @@
   <a href="https://npmjs.org/package/mich-to-html"><img src="https://img.shields.io/npm/dt/resolve-package.svg?style=flat" alt="npm downloads total"></a>
   <br>
 <img src="http://www.wallpaperscharlie.com/wp-content/uploads/2016/07/Cute-Girls-HD-Pictures-9.jpg" alt="Chika - Build brilliant UI apps, fast & easy." width="90%" height="90%"><br>
-Build brilliant UI apps, fast & easy.
+Build brilliant & fast UI apps, easy.
 </h1>
 
 > Chika is tiny sweety little chick in the JavaScript _\_ecosphere_\_ that creates blazing fast & gorgeous apps. She is kinda girlfriend of [Mich](https://github.com/tunnckoCore/mich), the Virtual Sword guy.
